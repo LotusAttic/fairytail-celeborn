@@ -8,5 +8,5 @@ Daidson Fonseca Alves
 
 * Lukas Pereira Ponciano Da Silva, @lukasponci
 * Leticia Claudia Dias De Souza, @leehso
-* ...
+* Rafaella Christe Correa, @rafachriste
 
